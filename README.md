@@ -17,5 +17,5 @@ Check out the pictures of our locomotive in the Media folder or visit https://se
 Thanks to 
  - https://github.com/SnijderC/dyplayer  for the awesome work he did to make using generic DY players easy to use 
  - Gavin Lyons for is work with HD44780_LCD_PCF8574.h  https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574
-  and of course Adafruit!
+ - and of course Adafruit!
 
