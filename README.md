@@ -12,7 +12,8 @@ I belong to a G Scale model railroad club that sets up large displays at train s
 I had been toying around with various keypads / mp3 player circuit boards, etc. when a veterans group I belong to finally decided to reactivate an old self-propelled locomotive parade float that had been sitting in a garage for 15 years.  The vehicle is a modified 1938 Nash Lafayette built at the Nash plant her in Kenosha, WI.  In order to modernize her, We had to remove 200+ pounds of compressors, tanks, air lines and 80 years of old wiring and automotive electronics from the 1970's.  Instead of using air, I decided to use electronics to play music and sounds and re-engineered my idea into this Parade Locomotive Player.
 
 Check out the pictures of our locomotive in the Media folder or visit https://sewivets.org/Voiture410/ 
-If you would like to donate to this project or our Nurses Training Fund, please see details on the website.
+
+> If you would like to donate to this project or our Nurses Training Fund, please see details on the website.
 
 Thanks to 
  - https://github.com/SnijderC/dyplayer  for the awesome work he did to make using generic DY players easy to use 
