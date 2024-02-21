@@ -1,5 +1,5 @@
 # Parade Player
-Arduino based DY-???? MP3 Player with I2CKeyPad input, and a HD44780 LCD Display 
+Arduino based DY-???? / DYPlayer MP3 Player with I2CKeyPad input, and a HD44780 LCD Display 
 This version works with an automobile head-unit/large weatherproof speakers.
 
 ## Concept
